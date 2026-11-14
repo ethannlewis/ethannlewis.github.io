@@ -23,7 +23,7 @@ repository               : "ethannlewis/ethannlewis.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "LewisEthan_Headshot.jpeg"
+  avatar           : "LewisEthan_Headshot.jpg"
   name             : ""
   pronouns         : # example: "she/her"  
   bio              : "Economics PhD Candidate"
