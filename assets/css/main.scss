@@ -44,3 +44,11 @@
   height: auto;
   max-width: 200px;
 }
+
+.page__footer {
+  position: relative;
+}
+
+#main {
+  min-height: 600px;   /* raise until the footer clears the sidebar */
+}
